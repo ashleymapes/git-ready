@@ -1,6 +1,6 @@
 # Git Ready
 >**Full Name:** Ashley Mapes
->**git repo:** [GitHub Repo](https://github.com/ashleymapes/git-ready.git) “GitHub”)
+>**git repo:** [GitHub Repo](https://github.com/ashleymapes/git-ready "GitHub" )
 >
 ## Demo
 >**link to video:** [Demo Video](https://youtu.be/jyGSthrg-vo "Youtube")
